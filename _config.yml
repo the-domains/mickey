@@ -1,0 +1,28 @@
+name: Mickey
+favicon: null
+layout_spectrum: 0.8415904978755862
+typography_spectrum: 0.2971568154171109
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.050365732749924064
+  lightness: 0.20158251258544624
+  saturation: 0.27713521267287433
+  rhythmicContrast: 0.055010955315083265
+purpose: []
